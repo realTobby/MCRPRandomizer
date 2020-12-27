@@ -1,0 +1,2 @@
+# MCRPRandomizer
+Minecraft Resourcepack Randomizer
